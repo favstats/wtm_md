@@ -1,68 +1,68 @@
 id,name,created_at,advertisers_entities.id,entities.short_name,countries.name,countries.alpha2,advertisers_platforms.advertiser_platform_ref,advertisers_platforms.advertiser_platform_name,platforms.name
-39e709fb-cd67-471e-b7ec-fa33d7d3332f,PAS Călărași,2024-03-22T05:20:37.194Z,2d4b62fd-c210-49f9-aa52-545e50963697,PAS,"Moldova, Republic of",md,269212022938037,PAS Călărași,Facebook
-e681ee59-4a65-4e74-87db-2e834272796a,"Alexei Percemli, Consilier Local PAS com.Bubuieci",2023-10-26T05:07:27.145Z,6e7ecbb2-0dc5-4fe9-a51e-dddedfcc74e8,PAS,"Moldova, Republic of",md,2052587694968245,"Alexei Percemli, Consilier Local PAS com.Bubuieci",Facebook
 43c52dfe-85a9-48a8-88be-ae2670850e66,PAS Fălești,2024-03-23T05:20:02.709Z,ea7da0f0-9d8e-438a-bf2e-8375e8580c87,PAS,"Moldova, Republic of",md,255162094349129,PAS Fălești,Facebook
 f0a74598-010c-484b-bebb-e7d28da63310,PAS Basarabeasca,2023-11-05T05:07:17.946Z,265f1e8c-1feb-4fa9-8e40-1eb565f22515,PAS,"Moldova, Republic of",md,113742803719710,PAS Basarabeasca,Facebook
-b0a03ee2-a06c-41bb-89e3-d8cb70ef2da1,PAS Colonita,2023-10-22T05:07:32.955Z,62a8b19b-45af-4ada-a332-7507776a714b,PAS,"Moldova, Republic of",md,129455300258563,PAS Colonita,Facebook
 44e3ebf0-cc6a-4281-abcd-1be9f9a96cff,PAS Ghidighici,2023-10-24T05:07:24.063Z,87c8e8ba-c800-47e2-97bd-6a720107a011,PAS,"Moldova, Republic of",md,150012228194520,PAS Ghidighici,Facebook
-add68be4-72bc-496f-9ffc-a5e985ae6ac7,PAS Grătiești,2023-10-15T05:07:21.939Z,bbe12164-f4cd-4fc3-a790-d0dfa44f884a,PAS,"Moldova, Republic of",md,107506247462534,PAS Grătiești,Facebook
 69b5d2cc-7d91-46e9-a7f2-127c2d51a12a,PAS Vadul lui Vodă,2023-10-17T05:07:30.144Z,d22b229c-b024-409c-bb80-b6a490da16c8,PAS,"Moldova, Republic of",md,152919271230827,PAS Vadul lui Vodă,Facebook
-1b48da1a-539f-44fa-a5b6-cefaf6668654,PAS Călăraşi,2023-04-17T08:08:05.567Z,808c1066-659c-4964-bd71-2be5f44c4b6b,PAS,"Moldova, Republic of",md,1773675319535681,PAS Călăraşi,Facebook
 12c2aea1-23fd-42d4-840e-7e6a3aaa4131,PAS Codru,2023-04-16T15:06:07.491Z,bc93c3da-1711-4691-b7b6-b9dd3d870050,PAS,"Moldova, Republic of",md,103212781078925,PAS Codru,Facebook
-23db8a66-7b3a-4889-beac-e8f93104dfc9,PAS Leova,2023-04-01T10:53:40.693Z,42b44024-d944-4b41-b34e-0326d2da4f9e,PAS,"Moldova, Republic of",md,110397700834029,PAS Leova,Facebook
+39e709fb-cd67-471e-b7ec-fa33d7d3332f,PAS Călărași,2024-03-22T05:20:37.194Z,2d4b62fd-c210-49f9-aa52-545e50963697,PAS,"Moldova, Republic of",md,269212022938037,PAS Călărași,Facebook
+e681ee59-4a65-4e74-87db-2e834272796a,"Alexei Percemli, Consilier Local PAS com.Bubuieci",2023-10-26T05:07:27.145Z,6e7ecbb2-0dc5-4fe9-a51e-dddedfcc74e8,PAS,"Moldova, Republic of",md,2052587694968245,"Alexei Percemli, Consilier Local PAS com.Bubuieci",Facebook
+b0a03ee2-a06c-41bb-89e3-d8cb70ef2da1,PAS Colonita,2023-10-22T05:07:32.955Z,62a8b19b-45af-4ada-a332-7507776a714b,PAS,"Moldova, Republic of",md,129455300258563,PAS Colonita,Facebook
+add68be4-72bc-496f-9ffc-a5e985ae6ac7,PAS Grătiești,2023-10-15T05:07:21.939Z,bbe12164-f4cd-4fc3-a790-d0dfa44f884a,PAS,"Moldova, Republic of",md,107506247462534,PAS Grătiești,Facebook
+1b48da1a-539f-44fa-a5b6-cefaf6668654,PAS Călăraşi,2023-04-17T08:08:05.567Z,808c1066-659c-4964-bd71-2be5f44c4b6b,PAS,"Moldova, Republic of",md,1773675319535681,PAS Călăraşi,Facebook
 3700e5f7-7eaf-493b-9cf5-5f8d9dcc4489,Organizația primară PAS Budești,2023-10-17T05:07:30.127Z,75b41392-fb9c-47e4-8fec-b57baf4323e2,PAS,"Moldova, Republic of",md,143154088879129,Organizația primară PAS Budești,Facebook
-6a4bdb61-b624-4b31-a957-08c7596a2ad5,PAS Youth,2023-03-31T10:54:05.441Z,8c6ae51a-550e-439c-b8bf-6440bb10a0c4,PAS,"Moldova, Republic of",md,849245071848203,PAS Youth,Facebook
 4c1627dc-ed5a-4351-9282-2bcb120f3eda,PAS Dubăsari,2023-04-02T10:54:02.193Z,4bf13abc-389f-48c7-948f-d5e830cc42df,PAS,"Moldova, Republic of",md,100457324959018,PAS Dubăsari,Facebook
+23db8a66-7b3a-4889-beac-e8f93104dfc9,PAS Leova,2023-04-01T10:53:40.693Z,42b44024-d944-4b41-b34e-0326d2da4f9e,PAS,"Moldova, Republic of",md,110397700834029,PAS Leova,Facebook
+6a4bdb61-b624-4b31-a957-08c7596a2ad5,PAS Youth,2023-03-31T10:54:05.441Z,8c6ae51a-550e-439c-b8bf-6440bb10a0c4,PAS,"Moldova, Republic of",md,849245071848203,PAS Youth,Facebook
 51c197e6-0288-4def-81f0-a8422bfbd424,PAS Șoldănești,2023-03-30T10:53:48.715Z,11bbd53e-01b4-4410-9b56-a2bed19304c1,PAS,"Moldova, Republic of",md,100153529171511,PAS Șoldănești,Facebook
 63aa93e6-7c0b-4fb2-a9b8-cd4a5b6ab301,PAS Nisporeni,2023-03-14T10:53:44.400Z,1e41506f-4683-44ba-ad8f-a394e0f9c66d,PAS,"Moldova, Republic of",md,1951389954961283,PAS Nisporeni,Facebook
-530c6dad-419e-4e39-be51-19c0b19ff29d,PAS Youth Cahul,2023-10-15T05:07:21.938Z,e21bf53d-81fc-4f86-b9cd-669f0d400246,PAS,"Moldova, Republic of",md,105078587993913,PAS Youth Cahul,Facebook
 70acc1ac-b41a-48d9-b227-0c53fd3e0f05,PAS Anenii Noi,2023-04-01T10:53:40.676Z,479a8a8c-f2fb-48d8-a90e-ddf6f4723630,PAS,"Moldova, Republic of",md,107268481041226,PAS Anenii Noi,Facebook
-11a8a7de-e518-4167-bca9-5a186afcc6bf,PAS Trușeni,2023-04-04T10:54:06.239Z,0b33e82d-34e4-4e75-91d4-3b8dafc662d6,PAS,"Moldova, Republic of",md,101076508166314,PAS Trușeni,Facebook
 42ff37e3-7b4b-4d08-b3ce-ae0eeb74056d,PAS Cantemir,2023-03-31T10:54:05.420Z,07933825-fc83-4730-8705-6bb3c9dee880,PAS,"Moldova, Republic of",md,102472547774699,PAS Cantemir,Facebook
-e2eb4e59-26d7-45dc-af8a-50a94b78acfc,PAS Chișinău,2023-03-08T14:44:32.333Z,960d5a21-cb16-4cb6-8742-9baa10a0ef31,PAS,"Moldova, Republic of",md,556018274585782,PAS Chișinău,Facebook
 f86f9f60-5427-424c-833d-549d67052734,Organizația Teritorială PAS Glodeni,2023-03-14T10:53:44.399Z,17dd2bd9-65b0-4346-bcc0-05dae9c16959,PAS,"Moldova, Republic of",md,110063751439291,Organizația Teritorială PAS Glodeni,Facebook
 9d32abb0-4f2a-4156-bf47-f69be1896f5c,Organizaţia Teritorială PAS Soroca,2023-03-11T10:54:10.530Z,ab056143-fa0e-4730-9370-7db46547e39d,PAS,"Moldova, Republic of",md,109421437294772,Organizaţia Teritorială PAS Soroca,Facebook
 a2dae095-6ba2-4453-af5f-c3af8a04e6ec,PAS Ciorescu,2023-10-14T05:07:19.259Z,5e11f495-cbd5-4975-ae46-c50ef381c080,PAS,"Moldova, Republic of",md,101493762163642,PAS Ciorescu,Facebook
+530c6dad-419e-4e39-be51-19c0b19ff29d,PAS Youth Cahul,2023-10-15T05:07:21.938Z,e21bf53d-81fc-4f86-b9cd-669f0d400246,PAS,"Moldova, Republic of",md,105078587993913,PAS Youth Cahul,Facebook
+e2eb4e59-26d7-45dc-af8a-50a94b78acfc,PAS Chișinău,2023-03-08T14:44:32.333Z,960d5a21-cb16-4cb6-8742-9baa10a0ef31,PAS,"Moldova, Republic of",md,556018274585782,PAS Chișinău,Facebook
 022138cc-9481-4ee3-822e-72f3c4d1b9f6,PAS Rîșcani,2023-03-08T10:54:03.311Z,8e52d95d-31a4-44de-930e-01f02d88c417,PAS,"Moldova, Republic of",md,102901435971465,PAS Rîșcani,Facebook
-29d7f1fe-55b8-4a48-a796-4000d6c30283,PAS Durlești,2023-03-08T10:54:03.312Z,2acce299-e3ac-4dfc-b9bf-a9105f828399,PAS,"Moldova, Republic of",md,115613003323926,PAS Durlești,Facebook
+11a8a7de-e518-4167-bca9-5a186afcc6bf,PAS Trușeni,2023-04-04T10:54:06.239Z,0b33e82d-34e4-4e75-91d4-3b8dafc662d6,PAS,"Moldova, Republic of",md,101076508166314,PAS Trușeni,Facebook
 19f89e6c-1453-497e-a05e-4d3f84d37be0,PAS Ștefan Vodă,2023-03-08T10:54:03.293Z,76316093-b7a0-49d9-8142-08afd037711a,PAS,"Moldova, Republic of",md,113662680376537,PAS Ștefan Vodă,Facebook
-378c9c9d-fbce-43c4-bc93-5255a515a94e,PAS Drochia,2023-03-08T10:54:03.308Z,caa49bdc-d235-4925-8a40-bb04ff544c1b,PAS,"Moldova, Republic of",md,111117144727853,PAS Drochia,Facebook
 efdebb82-d777-4599-b073-0e198f800bc5,PAS Bălți,2023-04-11T10:53:40.918Z,a8c98cb3-4f06-497a-a8e8-11731b7dc14a,PAS,"Moldova, Republic of",md,107549088968537,PAS Bălți,Facebook
-f8e803ab-a744-49b9-9e6a-fae175a4a36f,PAS Rezina,2023-03-08T10:54:03.305Z,dd8dfa6e-f071-40c7-a242-13d59f5729df,PAS,"Moldova, Republic of",md,108708810855843,PAS Rezina,Facebook
+29d7f1fe-55b8-4a48-a796-4000d6c30283,PAS Durlești,2023-03-08T10:54:03.312Z,2acce299-e3ac-4dfc-b9bf-a9105f828399,PAS,"Moldova, Republic of",md,115613003323926,PAS Durlești,Facebook
 9e8335db-11c9-4478-aad0-3bafa7c8a686,PAS Ocnița,2023-07-19T06:07:40.674Z,37636c0c-cefe-4d0a-abc5-43e74c104e4f,PAS,"Moldova, Republic of",md,107634138966060,PAS Ocnița,Facebook
+378c9c9d-fbce-43c4-bc93-5255a515a94e,PAS Drochia,2023-03-08T10:54:03.308Z,caa49bdc-d235-4925-8a40-bb04ff544c1b,PAS,"Moldova, Republic of",md,111117144727853,PAS Drochia,Facebook
 080535c7-0af4-45da-9881-5c7697cd6104,PAS Criuleni,2023-05-20T06:53:47.872Z,4f27ff23-75be-4a78-a820-0b6e7995dd98,PAS,"Moldova, Republic of",md,1892141601066292,PAS Criuleni,Facebook
-77e69e47-03a0-41db-8b49-24297a8fd150,Organizația Teritorială PAS Briceni,2023-04-02T10:54:02.243Z,3bc496a3-d9f4-48d3-80a4-ee657744ae3a,PAS,"Moldova, Republic of",md,134989144711373,Organizația Teritorială PAS Briceni,Facebook
+f8e803ab-a744-49b9-9e6a-fae175a4a36f,PAS Rezina,2023-03-08T10:54:03.305Z,dd8dfa6e-f071-40c7-a242-13d59f5729df,PAS,"Moldova, Republic of",md,108708810855843,PAS Rezina,Facebook
 5cf3d52c-124e-467e-9c61-5ad6c74996db,PAS Edineț,2023-04-11T10:53:40.918Z,d677e84f-8a03-4b05-8526-684c5792c8a0,PAS,"Moldova, Republic of",md,110882955299134,PAS Edineț,Facebook
 1fa37a57-6f84-47fc-ae6b-2d6b0b60cbd2,PAS Ialoveni,2023-03-08T10:54:03.311Z,ae3c2e68-6c4e-4d7b-9c4f-fb8c33f87b3d,PAS,"Moldova, Republic of",md,177041402779765,PAS Ialoveni,Facebook
+77e69e47-03a0-41db-8b49-24297a8fd150,Organizația Teritorială PAS Briceni,2023-04-02T10:54:02.243Z,3bc496a3-d9f4-48d3-80a4-ee657744ae3a,PAS,"Moldova, Republic of",md,134989144711373,Organizația Teritorială PAS Briceni,Facebook
 faa09261-2227-43aa-9be0-274c71ae07ef,PAS Orhei,2023-03-08T10:54:03.285Z,1773d7b9-c885-491c-b936-3b5aba6c71a5,PAS,"Moldova, Republic of",md,515198701938684,PAS Orhei,Facebook
 6316e496-177f-4cdc-9c6d-305f0dae7bf4,PAS Strășeni,2023-03-18T10:53:54.181Z,fc7635f5-e4d6-44ba-b309-52f057f0402a,PAS,"Moldova, Republic of",md,119334319458630,PAS Strășeni,Facebook
 fe6f4412-9e0a-4490-b926-defec26d50f3,PAS Hîncești,2023-03-20T10:53:52.891Z,c0e6893c-89e0-4bd5-a8c6-e09c1eaf28d3,PAS,"Moldova, Republic of",md,100373435894162,PAS Hîncești,Facebook
-27ebb317-11b5-47ef-8ccb-2006afaa9bce,Organizația Teritorială PAS Dondușeni,2023-03-18T10:53:54.195Z,661aac25-006b-4777-8ed8-0d24875aaf4f,PAS,"Moldova, Republic of",md,114442621555910,Organizația Teritorială PAS Dondușeni,Facebook
 08d7a4b0-b667-463f-984c-72515e4734e5,PAS Cimișlia,2023-03-18T10:53:54.208Z,785ba8b2-befa-41a0-87fb-00d4eb012290,PAS,"Moldova, Republic of",md,108944130444076,PAS Cimișlia,Facebook
-ad5a7503-4388-4dfd-aee9-bc788a4a217c,Organizația de Femei a PAS,2023-03-12T10:54:04.506Z,7a20d77c-0265-4e67-a3dd-81428e0813b0,PAS,"Moldova, Republic of",md,430046157359880,Organizația de Femei a PAS,Facebook
-be4944a0-29ea-46ff-99c4-361ec08d07a5,PAS Florești,2023-03-11T10:54:10.530Z,e4baa339-3e9a-4448-9414-276a2b93f82b,PAS,"Moldova, Republic of",md,336025817299952,PAS Florești,Facebook
+27ebb317-11b5-47ef-8ccb-2006afaa9bce,Organizația Teritorială PAS Dondușeni,2023-03-18T10:53:54.195Z,661aac25-006b-4777-8ed8-0d24875aaf4f,PAS,"Moldova, Republic of",md,114442621555910,Organizația Teritorială PAS Dondușeni,Facebook
 2c8c74ac-6927-4506-ba2f-d370bb0e45a9,Dionisie Ternovschi,2023-11-17T05:07:15.102Z,8a09a230-10ed-4c35-b605-5ea8ddac831b,PAS,"Moldova, Republic of",md,152723487930365,Dionisie Ternovschi,Facebook
+ad5a7503-4388-4dfd-aee9-bc788a4a217c,Organizația de Femei a PAS,2023-03-12T10:54:04.506Z,7a20d77c-0265-4e67-a3dd-81428e0813b0,PAS,"Moldova, Republic of",md,430046157359880,Organizația de Femei a PAS,Facebook
 c66999fa-ebb9-48e8-9e68-f70f27c93eb4,Eugeniu Gustoi,2023-11-13T05:08:11.171Z,88bead0a-bc54-470e-9680-9d8cecd92e0c,PAS,"Moldova, Republic of",md,162209586975609,Eugeniu Gustoi,Facebook
-51eb4027-dad6-4f57-96df-4d5a279db0be,PAS Telenești,2023-03-17T10:54:12.927Z,23cd9e7e-cc8d-4553-81f2-e731f6716b31,PAS,"Moldova, Republic of",md,104515974667896,PAS Telenești,Facebook
-b7f84f64-b8ad-43f0-a73c-49e7b54fb85c,PAS Căușeni,2023-03-11T10:54:10.545Z,1a518310-f58c-4f6f-a8bc-91f0c76b4251,PAS,"Moldova, Republic of",md,100662512948078,PAS Căușeni,Facebook
+be4944a0-29ea-46ff-99c4-361ec08d07a5,PAS Florești,2023-03-11T10:54:10.530Z,e4baa339-3e9a-4448-9414-276a2b93f82b,PAS,"Moldova, Republic of",md,336025817299952,PAS Florești,Facebook
 3120bf92-ee4c-4c12-8648-d11f1650e30f,Sinchevici Eugeniu,2023-11-03T05:07:32.661Z,bb521a82-170f-449d-8d34-6cb13cd06f09,PAS,"Moldova, Republic of",md,104942341992297,Sinchevici Eugeniu,Facebook
-0a335336-8c8e-4133-bed9-d8ff07f458e8,PAS Cahul,2023-03-11T10:54:10.531Z,9cefbabf-e8b8-4d64-9292-f2da955ee609,PAS,"Moldova, Republic of",md,100816701776057,PAS Cahul,Facebook
+51eb4027-dad6-4f57-96df-4d5a279db0be,PAS Telenești,2023-03-17T10:54:12.927Z,23cd9e7e-cc8d-4553-81f2-e731f6716b31,PAS,"Moldova, Republic of",md,104515974667896,PAS Telenești,Facebook
 543c0c5d-b833-4bd4-aefe-3240c4b90d0d,Partidul Acțiune și Solidaritate,2023-03-08T10:54:03.262Z,a4596304-d41c-44d7-ab26-b65a4542880b,PAS,"Moldova, Republic of",md,908402452570843,Partidul Acțiune și Solidaritate,Facebook
-ad8050dd-aa4d-416d-ad90-823df7fa02af,Victor Ambroci,2023-11-14T12:26:45.886Z,e7fb4c16-c880-4ed6-b31f-b636ce83cd3f,PAS,"Moldova, Republic of",md,100804863126415,Victor Ambroci,Facebook
+b7f84f64-b8ad-43f0-a73c-49e7b54fb85c,PAS Căușeni,2023-03-11T10:54:10.545Z,1a518310-f58c-4f6f-a8bc-91f0c76b4251,PAS,"Moldova, Republic of",md,100662512948078,PAS Căușeni,Facebook
 d31dca2a-f1bd-4bf6-b692-8b888f257e96,PAS Ungheni,2023-03-14T10:53:44.400Z,02152902-bf57-4e2d-ae0c-88c9b09ccc83,PAS,"Moldova, Republic of",md,483903432367970,PAS Ungheni,Facebook
+0a335336-8c8e-4133-bed9-d8ff07f458e8,PAS Cahul,2023-03-11T10:54:10.531Z,9cefbabf-e8b8-4d64-9292-f2da955ee609,PAS,"Moldova, Republic of",md,100816701776057,PAS Cahul,Facebook
+ad8050dd-aa4d-416d-ad90-823df7fa02af,Victor Ambroci,2023-11-14T12:26:45.886Z,e7fb4c16-c880-4ed6-b31f-b636ce83cd3f,PAS,"Moldova, Republic of",md,100804863126415,Victor Ambroci,Facebook
 0b8bc993-6aa8-433c-9f22-2d10ebcdfe2f,Pînzari Aliona,2023-11-13T05:08:11.220Z,b791c11a-fda4-470b-b3d1-40a434fe627b,PAS,"Moldova, Republic of",md,155294801004814,Pînzari Aliona,Facebook
 f9d84e12-674a-41fa-b74c-71429af52ebf,Ion Melnic - Consilier Municipal,2023-11-06T05:07:13.369Z,976ad3a0-54a7-4878-a1f4-e6c6b78a6406,PAS,"Moldova, Republic of",md,146236485236224,Ion Melnic - Consilier Municipal,Facebook
 734ce6b3-5438-463f-8922-710326e0580a,,2023-03-25T10:53:39.437Z,e8fb9e28-8d9c-488b-9461-46ab13eb104c,PAS,"Moldova, Republic of",md,102861914403146,,Facebook
 7131f9ed-5b24-443f-b717-81a606ca36b4,PAS Sîngerei,2023-03-18T10:53:54.181Z,f4510c47-ef7b-407c-bf23-08f2755534f8,PAS,"Moldova, Republic of",md,108545814284510,PAS Sîngerei,Facebook
 5522c21c-16f8-45ad-ad4f-0debcecc0057,Carp  Lilian,2023-09-05T05:07:21.138Z,81eec5d6-ed75-4ce7-b2ca-4bca2060497f,PAS,"Moldova, Republic of",md,232301384311938,Carp  Lilian,Facebook
+ef47a24e-5f05-4604-b3f5-7d6c03523314,Radu Marian,2023-09-26T05:09:11.852Z,c19a210f-d23e-4312-b00a-27ee41c19937,PAS,"Moldova, Republic of",md,112674470420030,Radu Marian,Facebook
 8b16c21c-531a-4490-8f6a-33a128eac550,PAS Fălești,2023-03-24T10:54:01.008Z,2d4e4965-6fdf-4659-801e-70e5ef99d91c,PAS,"Moldova, Republic of",md,100482358336025,PAS Fălești,Facebook
+d4ff802c-f20e-44c4-bc3a-9606a0a5f0ef,Igor Grosu,2023-03-14T10:53:44.386Z,a087e8fb-bd7d-42cc-b1ae-89def4425338,PAS,"Moldova, Republic of",md,395178011248404,Igor Grosu,Facebook
 5222db02-50b2-4e0e-866d-a42d0dbc43be,Ivanov  Dumitru,2023-10-30T05:07:21.160Z,09d00db9-69e9-4f6c-98cd-4694772e688d,PAS,"Moldova, Republic of",md,103138574911021,Ivanov  Dumitru,Facebook
 aa544b80-df8c-45cd-962a-43663f0321c0,Alexandr Severin,2023-10-07T05:07:29.761Z,5b50a1e9-66fd-447f-af99-433ebe200a1a,PN,"Moldova, Republic of",md,152184551301720,Alexandr Severin,Facebook
-ef47a24e-5f05-4604-b3f5-7d6c03523314,Radu Marian,2023-09-26T05:09:11.852Z,c19a210f-d23e-4312-b00a-27ee41c19937,PAS,"Moldova, Republic of",md,112674470420030,Radu Marian,Facebook
-7d84112d-04a5-4c07-9957-9a5c14fbbb3e,Boldurescu Vasile,2023-10-23T05:07:10.481Z,9582445e-fe29-4db6-bdd9-0d816a8b5288,PLD,"Moldova, Republic of",md,140528012479407,Boldurescu Vasile,Facebook
-d4ff802c-f20e-44c4-bc3a-9606a0a5f0ef,Igor Grosu,2023-03-14T10:53:44.386Z,a087e8fb-bd7d-42cc-b1ae-89def4425338,PAS,"Moldova, Republic of",md,395178011248404,Igor Grosu,Facebook
-7c2742ff-0ef2-4489-b39b-e55289212696,Партия Действие и Cолидарность,2023-03-08T10:54:03.262Z,d696ad30-2157-4e1b-8d26-c52e1a16e3ba,PAS,"Moldova, Republic of",md,100374961512104,Партия Действие и Cолидарность,Facebook
 46a3311d-40bf-4e6a-90b6-bd77d0712d19,Ilie Leahu,2023-10-15T05:07:21.902Z,5966460f-d358-4872-9d7d-ca3d8ecd80e5,PAS,"Moldova, Republic of",md,110952780295412,Ilie Leahu,Facebook
+7c2742ff-0ef2-4489-b39b-e55289212696,Партия Действие и Cолидарность,2023-03-08T10:54:03.262Z,d696ad30-2157-4e1b-8d26-c52e1a16e3ba,PAS,"Moldova, Republic of",md,100374961512104,Партия Действие и Cолидарность,Facebook
+7d84112d-04a5-4c07-9957-9a5c14fbbb3e,Boldurescu Vasile,2023-10-23T05:07:10.481Z,9582445e-fe29-4db6-bdd9-0d816a8b5288,PLD,"Moldova, Republic of",md,140528012479407,Boldurescu Vasile,Facebook
 a71fbbfb-6354-404d-af58-1ed8bcb57fed,Stela Onuțu,2023-10-10T05:07:27.143Z,82f540eb-bbf6-4c24-9800-1d6a2fde4bce,PN,"Moldova, Republic of",md,152346517952182,Stela Onuțu,Facebook
 dab7e33d-2cc4-484d-bb2c-a386946cfb69,Partidul Nostru Bălți - Наша Партия Бельцы,2023-10-31T05:44:18.889Z,544d99e5-9994-4991-b6be-25288383806f,PN,"Moldova, Republic of",md,107420580612993,Partidul Nostru Bălți - Наша Партия Бельцы,Facebook
 dd68d69f-639b-4d0e-8c61-b79bd42fcc3f,Chisinaul Nostru,2023-04-29T06:53:49.007Z,938f482d-060e-42ac-b315-a9ccbf8398f1,PN,"Moldova, Republic of",md,104070456012975,Chisinaul Nostru,Facebook
@@ -72,16 +72,16 @@ da3abfb6-ce3c-462e-a991-9162f0409d4e,Виктор Петриоглу,2023-10-07T
 1345f7f2-40b2-4ef3-9d80-9347e860668a,Roman Ciubaciuc,2023-10-07T05:07:29.774Z,7c87568e-56e0-4d01-ab8a-92ba8d845eb5,PN,"Moldova, Republic of",md,150532228133982,Roman Ciubaciuc,Facebook
 3e6688f6-e0ff-4660-a2df-a1318686e694,Partidul Nostru - Наша Партия,2023-10-01T05:07:34.006Z,715fb6a4-e31d-4314-89cc-e02574f4969b,PN,"Moldova, Republic of",md,820128691365519,Partidul Nostru - Наша Партия,Facebook
 3698e7d7-dd24-408e-9fce-8a1d55b27fdb,Vladimir Munteanu,2023-10-31T05:44:18.970Z,2e6e04f6-2074-43b0-80b1-d6ede53cf991,PLD,"Moldova, Republic of",md,121859131016884,Vladimir Munteanu,Facebook
+df0157e9-49ba-4403-8ac6-38ce22ff7b51,Nina Cereteu,2023-10-07T05:07:29.761Z,bd138491-0040-4f95-bbc0-eb0767daabaf,PN,"Moldova, Republic of",md,150840794759718,Nina Cereteu,Facebook
 131ff7ab-9023-437a-beaf-41d6bb7bfc6e,Martirosian Vrej,2023-10-08T05:07:44.535Z,9b18f026-cd5b-4e97-bf46-cb3a3e6b0fb6,PN,"Moldova, Republic of",md,101448531859952,Martirosian Vrej,Facebook
 9396f9d5-e6f1-42ca-85ff-9197f72b276e,Александр Петков,2023-10-06T05:07:44.616Z,169e85b6-3d3c-4153-9b68-6c15744661de,PN,"Moldova, Republic of",md,143314115527779,Александр Петков,Facebook
-df0157e9-49ba-4403-8ac6-38ce22ff7b51,Nina Cereteu,2023-10-07T05:07:29.761Z,bd138491-0040-4f95-bbc0-eb0767daabaf,PN,"Moldova, Republic of",md,150840794759718,Nina Cereteu,Facebook
-0c8ccade-2f1d-4dd5-9a7b-887b62b3d040,"Телекомпания BTV - Balti, Бельцы",2023-10-17T05:07:30.063Z,1bed471a-d916-4c87-a8af-209d5651801f,PN,"Moldova, Republic of",md,1442719172683690,"Телекомпания BTV - Balti, Бельцы",Facebook
-81b52643-a988-476f-8d58-bd758e806f45,Partidul Liberal Democrat din Moldova,2023-10-12T05:09:33.697Z,3816b4b5-82e2-4969-b305-be7828fa5873,PLD,"Moldova, Republic of",md,122372364466436,Partidul Liberal Democrat din Moldova,Facebook
 d4270893-3536-4c7b-906c-a2dbf4a47402,Natalia Dragutan,2023-10-08T05:07:44.552Z,b4332465-c5fc-4b04-be68-abe7f36fb830,PLD,"Moldova, Republic of",md,125786493951655,Natalia Dragutan,Facebook
-c97659ec-c478-4bb4-a841-90c2ed379d14,Organ Hall Moldova,2024-03-07T10:29:57.213Z,89617aca-a230-4e70-9aa9-937e9b7cd7e8,ZZZ,"Moldova, Republic of",md,831726810239108,Organ Hall Moldova,Facebook
+0c8ccade-2f1d-4dd5-9a7b-887b62b3d040,"Телекомпания BTV - Balti, Бельцы",2023-10-17T05:07:30.063Z,1bed471a-d916-4c87-a8af-209d5651801f,PN,"Moldova, Republic of",md,1442719172683690,"Телекомпания BTV - Balti, Бельцы",Facebook
 01e4f653-05e4-4fc0-9664-b515d0236900,Selflifecatalog,2023-05-02T06:53:50.942Z,b7ab1b58-6036-49e9-aa3a-2270180f61b9,ZZZ,"Moldova, Republic of",md,103202716012180,Selflifecatalog,Facebook
+81b52643-a988-476f-8d58-bd758e806f45,Partidul Liberal Democrat din Moldova,2023-10-12T05:09:33.697Z,3816b4b5-82e2-4969-b305-be7828fa5873,PLD,"Moldova, Republic of",md,122372364466436,Partidul Liberal Democrat din Moldova,Facebook
+e0d9822c-5e39-47ab-9974-a6d9c56eb888,Hospital universitario de mederi,2023-07-31T11:14:06.682Z,8a828bb9-6eb7-4d75-aa50-9bf8c19c1816,ZZZ,"Moldova, Republic of",md,545071848903054,Hospital universitario de mederi,Facebook
 2b12bf4e-6a0b-4e7c-b3bd-b3c2c30c0c3a,Fabrica de vin din Bacioi,2023-11-06T05:07:13.554Z,b74e3c79-46b7-43b9-bcea-f1a04f078ebe,ZZZ,"Moldova, Republic of",md,104439532627213,Fabrica de vin din Bacioi,Facebook
 3f4f0328-d7a4-4973-b63a-04e5775dd3b0,Moldova-Concert,2024-02-29T07:39:37.474Z,ac806a13-1a7d-4bf0-b5e9-459499f1ce90,ZZZ,"Moldova, Republic of",md,598676996948109,Moldova-Concert,Facebook
 e9e18e47-857d-4148-9710-db73042af8ae,Finhub Scaling Solutions,2023-03-08T18:41:18.142Z,cfa53b03-4260-4a79-bfdf-62e9280e5f62,ZZZ,"Moldova, Republic of",md,109256415028539,Finhub Scaling Solutions,Facebook
-e0d9822c-5e39-47ab-9974-a6d9c56eb888,Hospital universitario de mederi,2023-07-31T11:14:06.682Z,8a828bb9-6eb7-4d75-aa50-9bf8c19c1816,ZZZ,"Moldova, Republic of",md,545071848903054,Hospital universitario de mederi,Facebook
+c97659ec-c478-4bb4-a841-90c2ed379d14,Organ Hall Moldova,2024-03-07T10:29:57.213Z,89617aca-a230-4e70-9aa9-937e9b7cd7e8,ZZZ,"Moldova, Republic of",md,831726810239108,Organ Hall Moldova,Facebook
 09dedb01-f4ab-458f-8de7-42f3b88bea50,Health Treatment in India,2023-11-09T05:07:12.110Z,90f0801b-91a5-4a0d-9945-123eb0902f1a,ZZZ,"Moldova, Republic of",md,100588398620629,Health Treatment in India,Facebook
